@@ -1,0 +1,27 @@
+c:\users\xmashi\documents\visual studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe.config
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.pdb
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csprojResolveAssemblyReference.cache
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.Form1.resources
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.Properties.Resources.resources
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csproj.GenerateResource.Cache
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.exe
+C:\Users\xmashi\Documents\Visual Studio 2015\Projects\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.pdb
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe.config
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.pdb
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csprojResolveAssemblyReference.cache
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.Form1.resources
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.Properties.Resources.resources
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csproj.GenerateResource.Cache
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.exe
+E:\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.pdb
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe.config
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.exe
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\bin\Debug\ProyectoInteligenciaCompu.pdb
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csprojResolveAssemblyReference.cache
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.Properties.Resources.resources
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.csproj.GenerateResource.Cache
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.exe
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.pdb
+C:\Users\Yeferson Astudillo\Documents\IC\ProyectoInteligenciaCompu\ProyectoInteligenciaCompu\obj\Debug\ProyectoInteligenciaCompu.App.resources
